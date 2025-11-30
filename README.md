@@ -1,202 +1,351 @@
-# 🤖 Knight Bot
+# 🤖 Unfiltered Bytzz - WhatsApp Bot Deployment Platform
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+Professional WhatsApp Bot Deployment & Management System with Web Dashboard, Voucher System, and Multi-Session Support.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
-  </a> 
-</div> 
-
-<div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33FF00&width=910&height=100&lines=Unfiltered+bytzz+bot;Multi+device+whatsapp+bot" alt="Typing SVG" />
   </a> 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+  <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge" alt="Version"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
+  <img src="https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Platform-VPS-blue?style=for-the-badge" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" alt="Status"/>
 </div>
-
----
-
-## 🚀 Steps to Deploy
-
-### Step 1: Fork the Repository
-
-Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
+  <p><strong>Author:</strong> Glen Zilla | <strong>Telegram:</strong> <a href="https://t.me/unfilteredg">@unfilteredg</a></p>
+  <p><strong>Website:</strong> <a href="https://netivosolutions.top">netivosolutions.top</a></p>
 </div>
 
 ---
 
-### Step 2: Get Pair Code
+## ✨ Features
 
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+### 🚀 Core Platform Features
+- **One-Click Bot Deployment** - Deploy unlimited WhatsApp bots with a single voucher
+- **Web Dashboard** - Black & white theme interface for bot management
+- **QR Code & Pairing Code** - Multiple connection methods for WhatsApp linking
+- **Voucher System** - Single-use deployment codes for security & monetization
+- **Session Management** - Isolated sessions for each bot deployment
+- **Feature Toggle** - Enable/disable 100+ bot features in real-time
+- **Multi-Device Support** - Support for linked WhatsApp devices
+- **CLI Tool** - Command-line interface for voucher management (`ubot` command)
 
-<div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
-</div>
-
-
-### After getting creds.json file, upload it to session folder
-
----
-
-### Step 3: Deploy Now
-
-For further customization and setup guidance, click the button below:
-
-<div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
-
-### Deploy on VPS
-
-<div align="center">
-  <a href="https://client.petrosky.io/aff.php?aff=394" target="_blank">
-    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
-  </a>
-</div>
-
-### Deploy on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
-</a>
-</div>
-
-### Join Us
-
-<div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
-</div>
+### 🤖 Bot Features (100+)
+- **Tag All** - Mention all group members
+- **AI Chat** - AI-powered conversations
+- **Sticker Maker** - Convert images to stickers
+- **Text-to-Speech** - Convert text to audio
+- **Anti-Link** - Block malicious links
+- **Anti-BadWord** - Filter inappropriate language
+- **Music Download** - Download from YouTube, Spotify, etc
+- **Social Media** - Download from Instagram, TikTok, Facebook
+- **Group Management** - Kick, mute, promote, demote members
+- **Games** - Tic-Tac-Toe, 8-Ball, Trivia, and more
+- **And 80+ more commands!**
 
 ---
 
-## ⚙️ Features
+## 🏗️ System Architecture
 
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
-
----
-
-## 📖 About
-
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
-
----
-
-## 🛠️ Setup & Installation
-
-### Prerequisites
-
-- Node.js installed on your system
-- Git installed (for cloning the repository)
-
-### Step-by-Step Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
-    ```
-
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the bot:**
-
-    ```bash
-    node index.js
-    ```
-
-4. **Scan the QR code:**
-
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
+```
+┌─────────────────────────────────────────┐
+│    Web Dashboard (netivosolutions.top)  │
+│  HTML/CSS/JS - Black & White Theme      │
+└────────────────┬────────────────────────┘
+                 │ HTTPS
+┌────────────────▼────────────────────────┐
+│   Express.js API Server (Port 3001)    │
+│   - Voucher Management                 │
+│   - Session Management                 │
+│   - Deployment Controller               │
+└────────────────┬────────────────────────┘
+                 │
+┌────────────────▼────────────────────────┐
+│   Node.js Bot Engine (Baileys)          │
+│   - WhatsApp Connection                 │
+│   - Message Processing (100+ commands) │
+│   - Multi-Session Support              │
+└────────────────┬────────────────────────┘
+                 │
+┌────────────────▼────────────────────────┐
+│   SQLite Database & Storage             │
+│   - Voucher Management                 │
+│   - Session Data                        │
+│   - User Settings                       │
+└─────────────────────────────────────────┘
+```
 
 ---
 
+## 🔐 Security Features
 
-## 📄 License
+- **Single-Use Vouchers** - Each voucher can only be used once
+- **Session Isolation** - Each bot has its own isolated environment
+- **Admin-Only Generation** - Voucher generation requires admin key
+- **Audit Trail** - Complete tracking of who used which voucher
+- **WhatsApp Encryption** - Baileys handles credential encryption
+- **HTTPS/SSL** - Secure communication over the web
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+---
+
+## 💰 Monetization Model
+
+**How it works:**
+
+1. **Generate Vouchers** - `ubot voucher admin 10`
+2. **Sell to Users** - Each voucher = $5-20 per deployment
+3. **Users Deploy** - One voucher = One bot deployment
+4. **You Profit** - Scalable revenue without hosting overhead
+
+---
+
+## 🚀 Quick Start
+
+### For Local Development (5 minutes)
+
+```bash
+# Clone repository
+git clone https://github.com/zilla5187/unfiltered-bot.git
+cd unfiltered-bot
+
+# Install dependencies
+npm install
+cd web && npm install && cd ..
+
+# Terminal 1: Start web dashboard
+cd web && node server.js
+# Open http://localhost:3000
+
+# Terminal 2: Start bot
+node index.js
+# Scan QR code with WhatsApp
+```
+
+### For Production VPS (10 minutes)
+
+```bash
+# SSH into VPS as root
+ssh root@your-server-ip
+
+# Download and run installation script
+wget https://raw.githubusercontent.com/zilla5187/unfiltered-bot/main/install.sh
+chmod +x install.sh
+sudo ./install.sh
+
+# The script will:
+# ✓ Install all dependencies
+# ✓ Setup directory structure at /var/www/netivosolutions.top
+# ✓ Configure Apache & SSL
+# ✓ Create systemd services
+# ✓ Initialize database
+# ✓ Start services
+
+# Generate your first voucher
+ubot voucher admin 1
+
+# Access your platform
+# https://netivosolutions.top
+```
+
+---
+
+## 📱 Deploy Your First Bot
+
+1. **Get a Voucher Code**
+   ```bash
+   ubot voucher admin 1
+   # Output: UBOT-XXXX-XXXX-XXXX
+   ```
+
+2. **Visit the Platform**
+   - Local: `http://localhost:3000`
+   - Production: `https://netivosolutions.top`
+
+3. **Follow 3-Step Deployment**
+   - **Step 1:** Enter voucher code (validates & marks as used)
+   - **Step 2:** Connect WhatsApp (QR code or pairing code)
+   - **Step 3:** Configure bot (name, features, deploy)
+
+4. **Bot is Live!**
+   - Use dashboard to manage features
+   - Bot responds to commands in WhatsApp
+
+---
+
+## 🛠️ CLI Commands
+
+```bash
+# Generate vouchers
+ubot voucher admin              # 1 voucher
+ubot vouchers generate admin 10 # 10 vouchers
+
+# Validate vouchers
+ubot validate UBOT-XXXX-XXXX-XXXX
+
+# List vouchers
+ubot list admin
+
+# Get help
+ubot help
+```
+
+---
+
+## 📊 System Requirements
+
+### Local Development
+- Node.js 18+
+- npm
+- Git
+- 2GB RAM
+
+### Production VPS
+- Ubuntu 20.04 LTS+
+- 2GB RAM (4GB+ recommended)
+- 50GB SSD storage
+- Apache 2.4+
+- SSL certificate support
+
+---
+
+## 📖 Full Documentation
+
+For detailed information, refer to:
+
+- **[QUICKSTART.md](QUICKSTART.md)** - Get started in 5 minutes
+- **[PRODUCTION_README.md](PRODUCTION_README.md)** - Complete production setup
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical deep dive
+- **[SYSTEM_OVERVIEW.md](SYSTEM_OVERVIEW.md)** - Complete system overview
+
+---
+
+## 🔄 How the Voucher System Works
+
+```
+Admin: ubot voucher admin 1
+          ↓
+Generate: UBOT-XXXX-XXXX-XXXX
+          ↓
+User enters code on website
+          ↓
+Validate: Check if unused & not expired
+          ↓
+Approve: Mark as used, create session
+          ↓
+Deploy: Bot goes live
+          ↓
+Monetize: Admin keeps revenue
+```
+
+**Benefits:**
+- ✓ Control deployment scale
+- ✓ Monetize each deployment
+- ✓ Prevent abuse
+- ✓ Track usage
+- ✓ One-time use per voucher
+
+---
+
+## 🌐 Support & Contact
+
+- **Telegram**: [@unfilteredg](https://t.me/unfilteredg)
+- **Author**: Glen Zilla
+- **Website**: [netivosolutions.top](https://netivosolutions.top)
+- **GitHub**: [zilla5187/unfiltered-bot](https://github.com/zilla5187/unfiltered-bot)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## 🌟 Show your support
+## 🌟 Show Your Support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a ⭐ star on GitHub!
 
+---
 
-## Credits
+## 🚀 Deployment Options
 
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+### Option 1: Local Development
+Perfect for testing and development
+```bash
+git clone https://github.com/zilla5187/unfiltered-bot.git
+npm install
+cd web && npm install && cd ..
+# Run in 2 terminals: node index.js & cd web && node server.js
+```
+
+### Option 2: Production VPS
+For 24/7 deployment and monetization
+```bash
+sudo ./install.sh
+# Automated setup with Apache, SSL, systemd services
+ubot voucher admin 10  # Start selling!
+```
+
+### Option 3: Docker (Coming Soon)
+Easy containerized deployment
+
+---
+
+## 📈 Scaling & Growth
+
+**Phase 1: MVP**
+- 1 VPS, ~50 active bots, SQLite
+
+**Phase 2: Growth**
+- Multiple VPS, ~500 bots, PostgreSQL
+
+**Phase 3: Enterprise**
+- Kubernetes, ~5000+ bots, Redis caching
 
 ---
 
 ## ⚠️ Important Warning
 
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+**Note:** This bot is created for educational purposes. Using this bot may lead to your WhatsApp account being banned. Use at your own risk. The developers assume no liability for any consequences.
 
-## 📝 Legal
+---
 
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+## 📜 Legal Disclaimer
 
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
+- This project is not affiliated with, authorized, or endorsed by WhatsApp or Meta
+- This is independent and unofficial software - Use at your own risk
+- Do not spam people or use for illegal purposes
+- Developers assume no liability for misuse or damage
+- Always comply with WhatsApp's Terms of Service
 
-## 📜 Copyright Notice
+---
 
-Copyright (c) 2024 Professor. All rights reserved.
+## 👏 Credits
 
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+- **Baileys Library** - [@adiwajshing](https://github.com/adiwajshing/Baileys)
+- **Pairing Code** - [TechGod143](https://github.com/TechGod143) & [Dgxeon](https://github.com/Dgxeon)
+- **Platform Developer** - Glen Zilla ([@unfilteredg](https://t.me/unfilteredg))
+- **Original Bot** - [Professor](https://github.com/mruniquehacker)
+
+---
+
+<div align="center">
+  <p><strong>Made with ❤️ by Glen Zilla</strong></p>
+  <p>© 2024 Unfiltered Bytzz. All rights reserved.</p>
+  <p>
+    <a href="https://t.me/unfilteredg">Telegram</a> • 
+    <a href="https://netivosolutions.top">Website</a> • 
+    <a href="https://github.com/zilla5187/unfiltered-bot">GitHub</a>
+  </p>
+</div>
